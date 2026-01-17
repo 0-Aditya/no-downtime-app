@@ -1,3 +1,6 @@
+Updated version: https://github.com/0-Aditya/blue-green-deployment.git
+This one doesn't give zero downtime, instead it just provides automatic rollback. The updated version has zero downtime feature.
+
 Zero-Downtime Deployment with Automated Rollback
 Docker Compose + Nginx
 
